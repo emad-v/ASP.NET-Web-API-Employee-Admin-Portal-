@@ -415,4 +415,8 @@ FodyWeavers.xsd
 *.msi
 *.msix
 *.msm
+<<<<<<< HEAD
 *.msp
+=======
+*.msp
+>>>>>>> 22a87af73603ee9fc217740fc0ea25d3bdce319c
